@@ -25,8 +25,9 @@ The **Spreadsheets** extension by **AnyChart** adds a familiar spreadsheet inter
 - [Overview](https://qlik.anychart.com/extensions/spreadsheets/overview/)
 - [Documentation](https://qlik.anychart.com/extensions/spreadsheets/docs/)
 - Video Tutorials:
-  -    [How to Create Excel-Like Spreadsheets in Qlik Sense — Quick Start](https://www.youtube.com/watch?v=RL6kwDtfvn4&list=PL3jHUfM2e8EYb6y4O5JecI0iORYDXoHqF)
-  -    [How to Import Excel Templates into Qlik Sense](https://www.youtube.com/watch?v=RmR-ub8U4Yo&list=PL3jHUfM2e8EYb6y4O5JecI0iORYDXoHqF)
+  -    [Create Excel-Like Spreadsheets in Qlik Sense Using AnyChart Extension — Quick Start](https://www.youtube.com/watch?v=s8WMiVQ00Is&list=PL3jHUfM2e8EYb6y4O5JecI0iORYDXoHqF)
+  -    [Import Excel Templates into Qlik Sense with AnyChart Spreadsheets Extension](https://www.youtube.com/watch?v=7R2c4Nk3bf0&list=PL3jHUfM2e8EYb6y4O5JecI0iORYDXoHqF)
+
 - [Demo Apps](https://qlik.anychart.com/demos/apps/)
 - [Schedule a Meeting](https://qlik.anychart.com/demos/schedule/)
 - [Contact](mailto:sales@anychart.com)
