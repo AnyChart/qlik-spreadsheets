@@ -52,5 +52,5 @@ Discover more extensions for Qlik Sense from AnyChart at [qlik.anychart.com](htt
 * [YouTube](https://www.youtube.com/@AnyChart)
 * [Medium](https://anychart.medium.com/)
 * [X (Twitter)](https://x.com/anychart)
-* [Bluesky](https://bsky.app/profile/anychart.bsky.social)
+* [Bluesky](https://bsky.app/profile/anychart.com)
 * [Facebook](https://www.facebook.com/AnyCharts)
